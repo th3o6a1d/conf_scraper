@@ -1,14 +1,15 @@
 # LDS General Conference Talk Scraper
 
-Requires python 3 and scrapy package.
+- For those interest in analyzing semantic trends in official LDS teachings. 
+- Requires python 3 and scrapy package.
 
 ```
 pip3 install scrapy
 python3 scraper.py
 ```
 
-- Output will be saved as `talks.json`. 
-- With current settings, takes 
+- Output will be saved as `talks.csv`. 
+- With current settings, takes a few hours.
 - Sample Output: 
 
 ```
