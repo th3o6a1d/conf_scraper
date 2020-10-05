@@ -5,6 +5,8 @@
 
 ```
 pip3 install scrapy
+git clone https://github.com/th3o6a1d/conf_scraper.git
+cd conf_scraper
 python3 scraper.py
 ```
 
