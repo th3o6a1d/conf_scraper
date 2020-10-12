@@ -1,6 +1,6 @@
 # LDS General Conference Talk Scraper
 
-- For those interest in analyzing semantic trends in official LDS teachings. 
+- For those interested in analyzing semantic trends in official LDS teachings. 
 - Requires python 3 and scrapy package.
 
 ```
